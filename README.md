@@ -100,9 +100,7 @@ The notebook includes:
 - Models may need retraining for different IoT sensor types
 - Future enhancements: Transformer models, ensemble methods, real-time streaming architecture
 
-## Author
 
-Developed as a take-home assignment for AI/ML Engineer (Fresher) role.
 
 ## License
 
